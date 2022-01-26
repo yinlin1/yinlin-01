@@ -5,5 +5,6 @@ public class Person {
         System.out.println("Hello Git!");
         System.out.println("ReHello Git!");
         String name = "张三";
+        System.out.println("c");
     }
 }
